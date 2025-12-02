@@ -1,11 +1,11 @@
 <!-- Auto-generated GitHub Profile README | Last updated: December 2025 -->
 
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💻 Competitive Programmer | 🎨 UI/UX Explorer</h3>
+<h3 align="center">🚀 Full-Stack Developer | 💻 Competitive Programmer | 🎨 Problem Solver</h3>
 
 <!-- Working GIF Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="650" alt="Code Structure"/>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500" alt="Code Structure"/>
 </p>
 
 <!-- Typing SVG -->
@@ -84,21 +84,25 @@
 
 ### 📊 GitHub Stats
 
-<p align="flex items-center justify-center gap-5 center">
-  <!-- Main stats (verified working mirror) -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+
+  <!-- Left: Main GitHub Stats -->
   <img
     src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ayushh002&show_icons=true&theme=tokyonight&hide_border=true"
-    height="160"
+    height="165"
     alt="GitHub stats for ayushh002"
+    style="margin: 0;"
   />
 
-  <!-- Top languages (verified working mirror) -->
+  <!-- Right: Top Languages -->
   <img
     src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=ayushh002&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
+    height="165"
     alt="Top languages for ayushh002"
+    style="margin: 0;"
   />
-</p>
+
+</div>
 
 
 ### 🏆 GitHub Trophies
