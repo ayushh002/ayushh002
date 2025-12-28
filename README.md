@@ -1,7 +1,7 @@
 <!-- Auto-generated GitHub Profile README | Last updated: December 2025 -->
 
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
-<h3 align="center">🚀 Full-Stack Developer | 💻 Competitive Programmer | 🎨 Problem Solver</h3>
+<h3 align="center">🚀 Full-Stack Developer | 💻 Proficient in Data Structures & Algorithms | 🎨 Problem Solver</h3>
 
 <!-- Working GIF Banner -->
 <p align="center">
