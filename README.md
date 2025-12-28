@@ -50,8 +50,8 @@
 
 </p>
 
-#### 🛠 Additional Skills (Not in SkillIcons)
-- **Judge0 API** (real-time code execution) :contentReference[oaicite:2]{index=2}  
+#### 🛠 Additional Skills
+- **Judge0 API** (real-time code execution)
 - **JWT Authentication & Token Invalidation**  
 - **DaisyUI + TailwindCSS** UI frameworks  
 - **Axios, REST APIs, Wireframing, Prototyping (Figma)**  
